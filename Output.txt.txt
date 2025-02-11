@@ -1,0 +1,5 @@
+Extractive Summary:
+There are two main types: extractive summarization, which selects important sentences from the text, and abstractive summarization, which generates new sentences to summarize the main idea. Text summarization is the process of shortening a text while preserving key information. Various machine learning models like T5 and BART are commonly used for abstractive summarization.
+
+Abstractive Summary:
+text summarization is the process of shortening a text while preserving key information. Various machine learning models like T5 and BART are commonly used for abstractive summarization.
